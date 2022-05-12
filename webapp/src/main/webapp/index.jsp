@@ -31,7 +31,7 @@
     <p>Already have an account kya Machaa? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning MACHAA </h1>
+   <h1> Thankyou, Happy Learning DUDE </h1>
 
   
 </form>
